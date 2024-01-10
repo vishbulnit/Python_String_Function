@@ -1,1 +1,1 @@
-#### This repository includes Python string function example.
+### This repository includes Python string function example.
